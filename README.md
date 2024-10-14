@@ -23,3 +23,6 @@ Este é um jogo clássico de ping-pong desenvolvido em Python utilizando a bibli
 Certifique-se de ter Python instalado. Para instalar a biblioteca Turtle, use:
 ```bash
 pip install PythonTurtle
+```
+## Captura de Tela do Jogo:
+![Ping-Pong Game Screenshot](./Image.png)
